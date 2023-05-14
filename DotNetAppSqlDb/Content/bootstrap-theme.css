@@ -80,8 +80,8 @@ fieldset[disabled] .btn-danger {
 }
 .btn-default:active,
 .btn-default.active {
-  background-color: #e0e0e0;
-  border-color: #dbdbdb;
+  background-color: #28a4c9;
+  border-color: #b92c28;
 }
 .btn-default.disabled,
 .btn-default[disabled],
@@ -360,7 +360,7 @@ fieldset[disabled] .btn-danger.active {
 }
 .navbar-brand,
 .navbar-nav > li > a {
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.25);
+  text-shadow: 0 1px 0 #5cb85c;
 }
 .navbar-inverse {
   background-image: -webkit-linear-gradient(top, #3c3c3c 0%, #222 100%);
@@ -385,7 +385,7 @@ fieldset[disabled] .btn-danger.active {
 }
 .navbar-inverse .navbar-brand,
 .navbar-inverse .navbar-nav > li > a {
-  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  text-shadow: 0 -1px 0 #e38d13;
 }
 .navbar-static-top,
 .navbar-fixed-top,
@@ -396,7 +396,7 @@ fieldset[disabled] .btn-danger.active {
   .navbar .navbar-nav .open .dropdown-menu > .active > a,
   .navbar .navbar-nav .open .dropdown-menu > .active > a:hover,
   .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #fff;
+    color: #9acfea;
     background-image: -webkit-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
     background-image: -o-linear-gradient(top, #337ab7 0%, #2e6da4 100%);
     background-image: -webkit-gradient(linear, left top, left bottom, from(#337ab7), to(#2e6da4));
